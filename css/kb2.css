@@ -1,0 +1,26 @@
+nav{
+    background-color: black;
+    padding: 10px 0;
+}
+
+.barreNav{
+    list-style-type: none;
+    display: flex;
+    justify-content: left;
+}
+
+.barreNav li{
+    margin: 0 20px;
+    color:white;
+    font-size: 20px;
+    text-decoration: none;
+}
+.barreNav a{
+    color:white;
+    font-size: 20px;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.barreNav:hover{
+    color: blue;
+}
